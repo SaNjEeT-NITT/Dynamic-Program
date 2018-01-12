@@ -1,4 +1,4 @@
-//
+
 public class test 
 {
       public static int dynamic(int[] v, int amount) {
